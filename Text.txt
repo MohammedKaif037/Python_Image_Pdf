@@ -1,0 +1,68 @@
+ 
+A neurotransmitter is a chemical messenger that allow nerve cells to communicate with 
+each other. A neurotransmitter signal travels from a  neuron , across the synapse , to the 
+next neuron. The synapse is the name giv en to the space between the two neurons.  
+Neurotransmitters are important in boosting and balancing signals in the brain and for 
+keeping the brain functioning. They help manage automatic responses such as breathing and 
+heart rate, but they also have psychological functions such as learning, managing mood,  fear, 
+pleasure, and happiness.  
+ 
+How Neurotransmitters Work  
+In order for neurons to send messages via neurotransmitters, they need to communicate with 
+each other, which they do through synapses.  
+When signals travel through a neuron and reach the end of that neuron, they cannot simply 
+travel through to the next one. Instead, the neuron must trigger the rele ase of 
+neurotransmitters, which then carry signals across the synapses with the goal of reaching the 
+next neuron.  
+ 
+During synaptic transmission, the action potential (an electrical impulse) triggers the 
+synaptic vesicles of the pre -synaptic neuron to rele ase neurotransmitters (a chemical 
+message).  
+These neurotransmitters diffuse across the synaptic gap (the gap between the pre  and 
+post-synaptic neurons) and bind to specialised receptor sites on the post -synaptic neuron.  
+The neuron which released the neurotransmitters is called the presynaptic neuron. The neuron 
+which receives the neurotransmitters is called the postsynaptic neu ron. 
+The end of each neuron has presynaptic endings and vesicles, which are sacks containing 
+neurotransmitters.  
+When a nerve impulse (or action potential) triggers the release of neurotransmitters, these 
+chemicals are then released into the synapse and the n is taken up by the receptors on the next 
+neuron. This process is known as neurotransmission.  For Example  
+Packets of serotonin molecules are released from the end of the presynaptic cell (the 
+axon) into the space between the two nerve cells (the synapse).  These molecules may then 
+be taken up by receptors of the postsynaptic nerve cell (the dendrite) and thus pass along 
+their chemical message. Excess molecules are taken back up by the presynaptic cell and 
+reprocessed.  
+ 
+After Neurotransmission  
+The neurotran smitters released from the presynaptic neuron may either excite or inhibit the 
+postsynaptic neuron, telling it to either release neurotransmitters, slow down the release, or 
+stop signaling completely.  
+After neurotransmission, the signal is terminated, allowing the neurons to return to a resting 
+state.  
+When neurotransmitters get released into the synapse, not all are able to be attached to the 
+receptors of the postsynaptic neuron. However, the gap between the neurons needs to be 
+clearer of ne urotransmitters at signal termination.  
+Therefore, the neurotransmitters either get broken down by enzymes, diffused away, or re -
+uptake occurs.  
+Re-uptake is a process whereby neurotransmitters get reabsorbed back into the presynaptic 
+neuron they came from.  
+After this process, they either get restored back into the synaptic vesicles until needed again, 
+or they get broken down by enzymes.  
+ 
+Classification  
+A neurotransmitter can influence neurons in one of three ways: it can excite, inhibit, or 
+modulate them.  
+• Excitatory neurotransmitters  – these types have an excitatory/stimulating effect on the 
+neurons. If a neurotransmitter is excitatory, it will increase the likelihood that the neuron 
+will fire action potential. Examples of these types of neurotransmit ter are epinephrine 
+and norepinephrine.  
+• Inhibitory neurotransmitters  – in contrast to excitatory neurotransmitters, inhibitory 
+neurotransmitters have the opposite effect, inhibiting/hindering the neurons. If a 
+neurotransmitter is inhibitory, it makes the l ikelihood of the neuron firing action 
+potential will be decreased. Examples of these types of neurotransmitter are GABA and 
+endorphins.  
+• Modulatory neurotransmitters  – these are often called neuromodulators. If a 
+neurotransmitter is a neuromodulate, this me ans it can affect a large number of neurons 
+at the same time, as well as being able to influence the effects of other 
+neurotransmitters. Neuromodulators do not directly activate the receptors of neurons but 
+work together with neurotransmitters to enhance t he excitatory or inhibitory responses 
